@@ -2,21 +2,21 @@
 
 # 1 Certification Requirement
 > - AI Fluency for Students
->
+>http://verify.skilljar.com/c/youfg9msvfnx
 > Kindly submit the verification link here 
 > - Introduction to Agent Skills
->
+>http://verify.skilljar.com/c/cyq38h4bhbho
 > Kindly submit the verification link here
 > 
 > Kindly upload the certifications PDF in Google Drive Link
 
 # 2 Individual Project: Personal Portfolio
 > Personal Portfolio Project
->
+>https://github.com/Harikarthick28/AIML-1credit
 > - Kindly submit the GitHub Repo URL
->
+>https://harikarthick.vercel.app/
 > - Kindly submit the Vercel Deployment URL
->
+>https://github.com/Harikarthick28/AIML-1credit/blob/main/README.md
 > - Kindly submit the GitHub Pages (Documentation) URL
 
 # 3 Team Project: AI Full Stack Application
