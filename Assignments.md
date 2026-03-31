@@ -16,21 +16,21 @@
 > - Kindly submit the GitHub Repo URL
 >https://harikarthick.vercel.app/
 > - Kindly submit the Vercel Deployment URL
->https://github.com/Harikarthick28/AIML-1credit/blob/main/README.md
+>https://harikarthick28.github.io/AIML-1credit/
 > - Kindly submit the GitHub Pages (Documentation) URL
 
 # 3 Team Project: AI Full Stack Application
 > Team Project: AI Full Stack Application
->
+>https://github.com/Harikarthick28/meeko_web_app
 > - Kindly submit the GitHub Repo URL
->
+>https://meeko-song-player.web.app/
 > - Kindly submit the Live Application URL (Domain)
->
+>https://harikarthick28.github.io/meeko_web_app/
 > - Kindly submit the GitHub Pages (Documentation) URL
 
 # 4 Linkedin Post
 > Submit the LinkedIn post URL
-> 
+> https://www.linkedin.com/posts/hari-karthick-p-a0076a2a0_softwaredevelopment-fullstackdevelopment-activity-7444629658895183872-ZpYZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEi6QyABkytJPrwhZVAOvZqJOG9xAijsTyE
 > [LinkedIn post URL]
 
 ## For Second Year Buddies
